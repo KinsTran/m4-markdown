@@ -6,4 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-> "In my mind, I am a game designer. On my business card, I am a corporate President. But in my heart, I am a gamer" -Satoru Iwata >
+> "In my mind, I am a game designer. On my business card, I am a corporate President. But in my heart, I am a gamer" -Satoru Iwata
+
+dsfdsf
